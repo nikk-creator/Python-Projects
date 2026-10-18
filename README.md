@@ -1,1 +1,1 @@
-This file contains mini python projects to understand the fundamentals of python
+This file contains mini projects to understand the fundamentals of python.
